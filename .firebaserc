@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-angular-demo-99c45": {
+      "hosting": {
+        "angular-config": [
+          "fir-angular-demo-99c45"
+        ]
+      }
+    }
+  }
+}
